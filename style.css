@@ -73,7 +73,7 @@ body {
 	background: #fff;
 	border: none;
 	color: #444;
-	font-family: 'Lato', sans-serif;
+	font-family: 'Lora', serif;
 	font-size: 18px;
 }
 
@@ -626,8 +626,8 @@ input[type="submit"]:hover {
 
 .blog-title {
 	text-align: center;
-	font-family: 'Raleway', sans-serif;
-	font-size: 1.75em;
+	font-family: 'Dancing Script', sans-serif;
+	font-size: 1.95em;
 	line-height: 1;
 	margin: 0;
 	width: 100%;
@@ -635,7 +635,6 @@ input[type="submit"]:hover {
 
 .blog-title a {
 	color: #fff;
-	text-transform: uppercase;
 	letter-spacing: 4px;
 	font-weight: 700;
 }
